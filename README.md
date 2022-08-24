@@ -13,5 +13,6 @@ masrur-saqib/masrur-saqib is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/masrur-saqib/codeforces/main/output/light_card.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/masrur-saqib/codeforces/main/output/light_card.svg)
+ 
+![](https://github.com/masrur-saqib/codeforces/blob/main/output/light_card.svg)
