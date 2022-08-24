@@ -15,6 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://raw.githubusercontent.com/masrur-saqib/codeforces/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/masrur-saqib/codeforces/main/output/light_card.svg)
-
 
